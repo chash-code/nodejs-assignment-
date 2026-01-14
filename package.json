@@ -1,0 +1,16 @@
+{
+  "name": "boxen-project",
+  "version": "1.0.0",
+  "description": "Learning to use external NPM modules with boxen package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["boxen", "npm", "nodejs"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.1.2"
+  }
+}
